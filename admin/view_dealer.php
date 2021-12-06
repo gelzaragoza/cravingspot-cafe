@@ -11,7 +11,7 @@
 						<table>
 							<tr>
 								<td rowspan="3" style="width:60px;"><img src="../img/ps_logo.png" width="50px" height="50px"></td>
-								<td><span style="font-size:20px;">Personal Collections</span></td>
+								<td><span style="font-size:20px;">Craving Spot Cafe</span></td>
 							</tr>
 						</table>
 					</div>

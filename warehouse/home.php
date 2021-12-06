@@ -35,20 +35,20 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2 class="page-header">PERSONAL COLLECTION INC.</h2>
+                        <h2 class="page-header">Craving Spot Cafe</h2>
                     </div>
                     <!-- /.col-lg-12 -->
                 </div>
                 <!-- /.row -->
 				<div class="row">
                     <div class="col-lg-12">
-                        <h4>Personal Collection Inc. Direct Selling Philippines</h4>
-						<p> The Passion to understand the greatness within the corporate culture we breathe and live by in our quest for Greatness.
-							Constantly seeking and searching the depths of what goes behind, beyond and into the core of the huge word that to a layman
-							is simply called UNDERSTANDING. A level of UNDERSTANDING manifested in our people, top notch products, systems, processess and
-							the unique kind of service we graciously exhibit. The result - in a span of only few years - Branches nationwide, thousands of
-							satisfied dealers al over the country, a great number of employees and a lot delighted customers. Simply because we focus on passionately
-							understanding the greatness within...
+                        <h4>Craving Spot Cafe</h4>
+						<p> The Passion to understand the greatness within the corporate culture we breathe and live by in our quest for Greatness. 
+							Constantly seeking and searching the depths of what goes behind, beyond and into the core of the huge word that to a layman is
+							 simply called UNDERSTANDING. A level of UNDERSTANDING manifested in our people, top notch products, systems, processess and the
+							  unique kind of service we graciously exhibit. The result - in a span of only few years - Branches nationwide, thousands of satisfied
+							   dealers al over the country, a great number of employees and a lot delighted customers. Simply because we focus on passionately
+							    understanding the greatness within...
 						</p>
                     </div>
                     <!-- /.col-lg-12 -->
