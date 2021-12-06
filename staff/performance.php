@@ -100,7 +100,7 @@
 					?>
 						<center><strong><span style="font-size:18px;">LIFETIME TOP SELLER</span></strong></center>
 						<div style="height:10px;"></div>
-						<img src="../<?php if($prow['img_src']==""){echo "img/noimage.jpg";}else{echo $prow['img_src'];} ?>" class="thumbnail" style="margin:auto; padding:auto;" height="120px" width="120px">
+						<img src="../<?php if($prow['img_src']==""){echo "img/cupcakes.jpg";}else{echo $prow['img_src'];} ?>" class="thumbnail" style="margin:auto; padding:auto;" height="120px" width="120px">
 						<div style="height:10px;"></div>
 						<table style="padding:auto; margin:auto;">
 						<tbody>
@@ -119,7 +119,7 @@
 					?>
 						<center><strong><span style="font-size:18px;">LIFETIME TOP DEALER</span></strong></center>
 						<div style="height:10px;"></div>
-						<img src="../<?php if($drow['photo']==""){echo "img/noimage.jpg";}else{echo $drow['photo'];} ?>" class="thumbnail" style="margin:auto; padding:auto;" height="120px" width="120px">
+						<img src="../<?php if($drow['photo']==""){echo "img/ragusss.jpg";}else{echo $drow['photo'];} ?>" class="thumbnail" style="margin:auto; padding:auto;" height="120px" width="120px">
 						<div style="height:10px;"></div>
 						<table style="padding:auto; margin:auto;">
 						<tbody>
