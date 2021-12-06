@@ -897,12 +897,9 @@ CREATE TABLE `prod_category` (
 --
 
 INSERT INTO `prod_category` (`categoryid`, `catname`) VALUES
-(1, 'Fragrances'),
-(2, 'Homecare Products'),
-(3, 'Health Care / Food Supplements'),
-(4, 'Personal Care Products'),
-(5, 'Baby Care Products'),
-(6, 'Coffee Products');
+(1, 'Meals'),
+(2, 'Drinks'),
+(3, 'Desserts');
 
 -- --------------------------------------------------------
 
