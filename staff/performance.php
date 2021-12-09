@@ -163,7 +163,7 @@
 						"Dec",
 					],
             datasets: [{
-                label: 'Fragrances',
+                label: 'Meals',
                 backgroundColor: color(window.chartColors.red).alpha(0.5).rgbString(),
                 borderColor: window.chartColors.red,
                 borderWidth: 1,
@@ -182,7 +182,7 @@
                     "<?php echo $ndec1; ?>"
                 ]},
 				{
-                label: 'Homecare',
+                label: 'Drinks',
                 backgroundColor: color(window.chartColors.blue).alpha(0.5).rgbString(),
                 borderColor: window.chartColors.blue,
                 borderWidth: 1,
@@ -201,7 +201,7 @@
                     "<?php echo $ndec2; ?>"
                 ]},
 				{
-                label: 'Health',
+                label: 'Desserts',
                 backgroundColor: color(window.chartColors.ornnge).alpha(0.5).rgbString(),
                 borderColor: window.chartColors.orange,
                 borderWidth: 1,
@@ -219,63 +219,6 @@
                     "<?php echo $nnov3; ?>",
                     "<?php echo $ndec3; ?>"
                 ]},
-				{
-                label: 'Personal',
-                backgroundColor: color(window.chartColors.yellow).alpha(0.5).rgbString(),
-                borderColor: window.chartColors.yellow,
-                borderWidth: 1,
-                data: [
-                    "<?php echo $njan4; ?>",
-                    "<?php echo $nfeb4; ?>",
-                    "<?php echo $nmar4; ?>",
-                    "<?php echo $napr4; ?>",
-                    "<?php echo $nmay4; ?>",
-                    "<?php echo $njun4; ?>",
-                    "<?php echo $njul4; ?>",
-                    "<?php echo $naug4; ?>",
-                    "<?php echo $nsep4; ?>",
-                    "<?php echo $noct4; ?>",
-                    "<?php echo $nnov4; ?>",
-                    "<?php echo $ndec4; ?>"
-                ]},
-				{
-                label: 'Baby',
-                backgroundColor: color(window.chartColors.black).alpha(0.5).rgbString(),
-                borderColor: window.chartColors.black,
-                borderWidth: 1,
-                data: [
-                    "<?php echo $njan5; ?>",
-                    "<?php echo $nfeb5; ?>",
-                    "<?php echo $nmar5; ?>",
-                    "<?php echo $napr5; ?>",
-                    "<?php echo $nmay5; ?>",
-                    "<?php echo $njun5; ?>",
-                    "<?php echo $njul5; ?>",
-                    "<?php echo $naug5; ?>",
-                    "<?php echo $nsep5; ?>",
-                    "<?php echo $noct5; ?>",
-                    "<?php echo $nnov5; ?>",
-                    "<?php echo $ndec5; ?>"
-                ]},
-				{
-                label: 'Coffee',
-                backgroundColor: color(window.chartColors.green).alpha(0.5).rgbString(),
-                borderColor: window.chartColors.green,
-                borderWidth: 1,
-                data: [
-                    "<?php echo $njan6; ?>",
-                    "<?php echo $nfeb6; ?>",
-                    "<?php echo $nmar6; ?>",
-                    "<?php echo $napr6; ?>",
-                    "<?php echo $nmay6; ?>",
-                    "<?php echo $njun6; ?>",
-                    "<?php echo $njul6; ?>",
-                    "<?php echo $naug6; ?>",
-                    "<?php echo $nsep6; ?>",
-                    "<?php echo $noct6; ?>",
-                    "<?php echo $nnov6; ?>",
-                    "<?php echo $ndec6; ?>"
-                ]}
 				]
 
         };
