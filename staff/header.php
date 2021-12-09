@@ -9,9 +9,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Personal Collection</title>
+    <title>Craving Spot Cafe</title>
 	
-	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="shortcut icon" href="" />
 
     <!-- Bootstrap Core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

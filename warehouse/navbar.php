@@ -36,7 +36,7 @@
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
                         <li class="sidebar-search">
-                            <img src="../img/logo.png" height="50px" width="220px">
+                            <img src="../img/1logo.png" height="50px" width="220px">
                             <!-- /input-group -->
                         </li>
                         <li>
