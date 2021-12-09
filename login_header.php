@@ -11,7 +11,7 @@
 
     <title>Craving Spot</title>
 	
-	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="shortcut icon" href="" />
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
