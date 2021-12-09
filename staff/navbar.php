@@ -7,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Personal Collection</a>
+                <a class="navbar-brand" href="#">Craving Spot Cafe</a>
             </div>
             <!-- /.navbar-header -->
 
@@ -37,7 +37,7 @@
                     <ul class="nav" id="side-menu">
                         <li class="sidebar-search">
                             <div class="input-group custom-search-form">
-                                <img src="../img/logo.png" height="50px" width="220px">
+                                <img src="../img/1logo.png" height="50px" width="220px">
                             </div>
                             <!-- /input-group -->
                         </li>
