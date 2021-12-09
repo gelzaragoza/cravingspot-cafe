@@ -14,13 +14,11 @@
                         <div id="myCarousel" class="carousel slide">
 							<!-- Carousel items -->
 							<div class="carousel-inner">
-							<div class="active item"><img src="../img/1.jpeg"  height="250px"></div>
-							<div class="item"><img src="../img/2.jpeg"  height="250px"></div>
-							<div class="item"><img src="../img/3.jpeg"  height="250px"></div>
-							<div class="item"><img src="../img/4.jpeg"  height="250px"></div>
-							<div class="item"><img src="../img/5.jpeg"  height="250px"></div>
-							<div class="item"><img src="../img/6.jpeg"  height="250px"></div>
-							<div class="item"><img src="../img/7.jpeg"  height="250px"></div>
+							<div class="active item"><img src="../img/2.png"  height="250px"></div>
+							<div class="item"><img src="../img/2.png"  height="250px"></div>
+							<div class="item"><img src="../img/3.png"  height="250px"></div>
+							<div class="item"><img src="../img/4.png"  height="250px"></div>
+							<div class="item"><img src="../img/5.png"  height="250px"></div>
 							</div>
 							<!-- Carousel nav -->
 							<a class="carousel-control left" href="#myCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>

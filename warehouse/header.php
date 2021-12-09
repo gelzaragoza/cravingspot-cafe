@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Personal Collection</title>
+    <title>Craving Spot Cafe</title>
 	
 	<link rel="shortcut icon" href="favicon.ico" />
 
